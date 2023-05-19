@@ -4,9 +4,17 @@
 .img{
     width: 100%;
     height: 100%;
+    margin: 1px;
 }
 #foto{
+    width: 100%;
     height: 100%;
+    margin: 1px;
+    font-size: 100px;
+}
+.banner{
+    width: 100%;
+    height: 10rem;
 }
 /* #datos{
     height: 250px;
@@ -24,11 +32,9 @@
     height: 100%;
 } */
 #hijos{
-    height: 300px;
+    
 }
-#logos{
-  
-}
+
 .logo{
     width: 30%;
 
